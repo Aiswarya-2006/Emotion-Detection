@@ -1,3 +1,3 @@
 EmotiSense is a real-time facial emotion detection system designed to identify and analyze human emotions using a live camera feed. The system detects faces, tracks expressions, and classifies emotions such as Happy, Sad, Angry, Surprised, Neutral, Fearful, and Disgusted.
 The interface provides a live video preview with face detection, start/stop controls, and session-based emotion statistics displayed visually. This allows users to understand emotional patterns in real time, making the system suitable for applications in human–computer interaction, mental health analysis, and user behavior studies.
-<img width="1900" height="1019" alt="Screenshot 2025-11-28 144225" src="https://github.com/user-attachments/assets/48286928-c3d9-4076-a868-ce8d5a4ac0a2" />
+<img width="1400" height="519" alt="Screenshot 2025-11-28 144225" src="https://github.com/user-attachments/assets/48286928-c3d9-4076-a868-ce8d5a4ac0a2" />
