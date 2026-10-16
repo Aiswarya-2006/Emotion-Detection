@@ -1,0 +1,4 @@
+venv/
+Emotion-Dashboard/venv/
+__pycache__/
+*.pyc
